@@ -71,7 +71,7 @@
 <body>
     <header>
         <h1>Welkom bij Soepwinkel Hasselt</h1>
-        <p>De lekkerste soepen, vers gemaakt voor jou in Hasselt!</p>
+        <p>De lekkerste soepen, vers gemaakt voor jou in Hasselt, en gratis geleverd op maandag tussen 17u en 20u!</p>
     </header>
 
     <div class="container">
@@ -82,8 +82,8 @@
             <button class="bestel-btn" onclick="openForm('Tomatensoep')">Bestel Nu</button>
         </div>
         <div class="soep">
-            <h3>Erwtensoep</h3>
-            <p>Traditionele erwtensoep met rookworst. €6,50 per liter.</p>
+            <h3>groene soep</h3>
+            <p>Traditionele groene soep. €7,50 per liter.</p>
             <button class="bestel-btn" onclick="openForm('Erwtensoep')">Bestel Nu</button>
         </div>
 
